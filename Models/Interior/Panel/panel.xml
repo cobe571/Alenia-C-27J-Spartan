@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>panel.ac</path>
+
+  <animation>
+    <!-- Objets opaques/Oggetti opachi -->
+    <object-name>PanelBase</object-name>
+    <object-name>panel</object-name>
+    <object-name>InstrumentsBase</object-name>
+    <object-name>CompassBox1</object-name>
+    <object-name>CompassBox2</object-name>
+    <object-name>PedalAL</object-name>
+    <object-name>PedalAR</object-name>
+    <object-name>PedalBL</object-name>
+    <object-name>PedalBR</object-name>
+    
+    <!-- Objets transparents/Oggetti trasparenti -->
+  </animation>
+
+  <animation>
+    <type>material</type>
+    <object-name>PanelBase</object-name>
+    <condition>
+      <property>/controls/electric/battery-switch</property>
+    </condition>
+    <emission>
+      <factor-prop>controls/lighting/panel-dim</factor-prop>
+      <red>   0.8 </red>
+      <green> 0.8 </green>
+      <blue>  0.8 </blue>
+    </emission>
+  </animation>
+  
+  <!-- ALL SEATS -->
+  <model>
+    <path>Aircraft/Alenia-C-27J-Spartan/Models/Interior/Seats/all-seats.xml</path>
+  </model>
+  
+  <!-- ALL YOKES 
+  <model>
+    <path>Aircraft/Alenia-C-27J-Spartan/Models/Interior/Panel/Yoke/all-yokes.xml</path>
+  </model> -->
+  
+</PropertyList>
