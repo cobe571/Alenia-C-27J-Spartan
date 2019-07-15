@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="C-27J-base.xml">
+
+  <sim>
+    
+    <description>Alenia C-27J-Spartan (YASim)</description>
+    <author>Patrizio MELIS (3D/FDM), Emmanuel BARANGER (FDM)</author>
+    <aircraft-version>0.1</aircraft-version>
+    <status>Alpha</status>
+    
+    <flight-model>yasim</flight-model>
+    <aero>C-27J-yasim</aero>
+    
+    <rating>
+      <FDM type="int">     1 </FDM>
+      <systems type="int"> 0 </systems>
+      <cockpit type="int"> 0 </cockpit>
+      <model type="int">   4 </model>
+    </rating>
+
+  </sim>
+
+</PropertyList>
