@@ -3,12 +3,15 @@
 
 A little history
 ================
-The Alenia C-27J Spartan is a medium-sized STOL military transport aircraft developed and manufactured 
-by Alenia Aermacchi. It is an advanced derivative of Alenia Aeronautica's earlier G.222 Panda, originally 
-designed by the italian aeronautical engineer Giuseppe Gabrielli (C-27A Spartan in U.S. service), It's 
-equipped with the engines and various other systems also used on the larger Lockheed Martin C-130J 
-Super Hercules. In addition to the standard transport configuration, specialized variants of the 
-C-27J have been developed for electronic warfare and ground-attack missions.
+The Alenia C-27J Spartan is a medium-sized STOL military transport aircraft 
+developed and manufactured by Alenia Aermacchi. 
+It is an advanced derivative of Alenia Aeronautica's earlier G.222 Panda, 
+originally designed by the italian aeronautical engineer Giuseppe Gabrielli 
+(C-27A Spartan in U.S. service), It's equipped with the engines and various 
+other systems also used on the larger Lockheed Martin C-130J 
+Super Hercules. In addition to the standard transport configuration, 
+specialized variants of the C-27J have been developed for electronic 
+warfare and ground-attack missions.
 
 
 Alenia C-27J-Spartan
